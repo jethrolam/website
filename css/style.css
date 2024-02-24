@@ -148,7 +148,7 @@ body{
 }
 
 .home{
-    min-height: 100vh;
+    min-height: 60vh;
     width: 100vw;
     background-image: url(../images/img1.jpg);
     background-size: cover;
@@ -205,7 +205,7 @@ body{
 }
 
 .about{
-    min-height: 55vh;
+    min-height: 40vh;
     width: 100vw;
     top: -3rem;
     text-align: center;
@@ -709,6 +709,7 @@ body{
 }
 
 .contact{
+    min-height: 40vh;
     text-align: center;
     align-items: center;
 }
